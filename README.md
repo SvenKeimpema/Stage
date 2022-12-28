@@ -1,2 +1,1 @@
-# Stage
-# Stage
+dit is een aanpassing aan README.MD dat gepushed word naar de branch nieuw.
