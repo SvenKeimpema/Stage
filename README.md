@@ -1,2 +1,1 @@
-# Stage
-# Stage
+dit is een verandering aan de README.md en deze verandering word gezet op de branch nieuw.
